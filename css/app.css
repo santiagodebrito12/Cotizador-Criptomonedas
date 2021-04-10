@@ -1,8 +1,9 @@
 body {
-    background-color: #0d2235;
+    background-color: black;
 }
 img {
     max-width: 100%;
+    border-radius: 45%;
 }
 
 h1 {
